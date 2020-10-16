@@ -1,0 +1,19 @@
+{
+  "name": "old-storehouseproject",
+  "version": "1.0.0",
+  "description": "StorehouseProject",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vordawg/Old-StorehouseProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vordawg/Old-StorehouseProject/issues"
+  },
+  "homepage": "https://github.com/vordawg/Old-StorehouseProject#readme"
+}
